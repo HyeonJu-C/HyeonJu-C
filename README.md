@@ -25,3 +25,10 @@
 <img src="https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </div>
+
+</br>
+
+<div align="center">
+<h2>👀 Now I'm interested in...</h2>
+<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
+</div>
