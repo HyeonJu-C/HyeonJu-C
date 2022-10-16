@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h2> 🦁 Contact Me </h2>
+<h2> ☎️ Contact Me </h2>
 <a href="https://hyeonju-frontend-study.tistory.com/">
 <img src="https://img.shields.io/badge/-study blog-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 </a>
